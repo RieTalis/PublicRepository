@@ -15,11 +15,10 @@
         display: flex;
         gap: 1rem;
         align-items: center;
-        justify-content: space-around;
+        justify-content: space-between;
         background: #FFF;
         border-bottom: 1px solid #D9FFF5;
-        width: 100%;
-        padding: 1rem 0;
+        padding: 1rem 2rem;
     }
 
     .navigation__wrapper1, .navigation__wrapper2 {
